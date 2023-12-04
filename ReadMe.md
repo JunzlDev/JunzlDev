@@ -3,7 +3,7 @@ Atualmente estou tentando sempre aprender mais ;D<br><br>Desenvolvo principalmen
 
 
 ## 🌐 Minhas redes:
-https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white : Junzl_
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] @junzl_ 
 
 # 💻 Linguagens:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
